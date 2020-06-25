@@ -8,3 +8,8 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  body{
+    font-size: 1.3em;
+    font-family: 'Work Sans', sans-serif;
+    background-color: grey;
+  }
